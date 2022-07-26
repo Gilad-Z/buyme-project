@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<BrowserType>firefox</BrowserType>
+    <URL>https://buyme.co.il/</URL>
+    <FirstName>Gilad</FirstName>
+    <Email>jonim55352@teasya.com</Email>
+    <Password>Joni55352</Password>
+    </config>
